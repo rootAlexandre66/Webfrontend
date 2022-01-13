@@ -29,8 +29,9 @@
     padding: 0px;
 }
 body{
-    background-color: var(--cor0);
+    background-image: url('/imagens/wallpaper005.jpg');
     font-family: var(--font-padrao);
+    
 }
 main P{
     margin: 15px 0px 15px 0px;
@@ -69,11 +70,11 @@ header > p{
 nav{
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.363);
-    background-color: var(--cor5);
+    background-color: var(--cor);
     background-image: linear-gradient(to right, var(--cor3), var(--cor1));
 }
 nav >a{
-    color: var(--cor2);
+    color: var(--cor4);
     padding: 10px;
     text-decoration:none;
     font-weight: bold;
